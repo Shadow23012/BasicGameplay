@@ -1,3 +1,3 @@
-# PryectoGamer
+# ProyectoGamer
 
 ## Planeación Trello
