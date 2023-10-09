@@ -5,7 +5,7 @@ Este es un proyecto de la unidad 2
 [♠Trello♠](https://trello.com/b/XawGBlxt/tutorial-2)
 
 # Basic Gameplay
-#### Rutas de acceso para abrir la escena del proyecto
+#### Rutas de acceso para abrir la escena del proyecto una vez descargadas las carpetas
 Project2/project2/Assets/Scenes/Prototype 2
 
 Challenge2/Challenge2/Assets/Challenge 2/Challenge 2
